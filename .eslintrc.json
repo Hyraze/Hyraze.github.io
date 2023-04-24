@@ -1,4 +1,9 @@
-{
+{"prettier/prettier": [
+  "error",
+  {
+    "endOfLine": "auto",
+  }
+],
   "extends": [
     "sznm/react",
     "plugin:react/jsx-runtime",
